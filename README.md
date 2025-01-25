@@ -13,3 +13,6 @@ Ce projet vise à créer et animer plusieurs formes géométriques en **3D** à 
 - **Transformations indépendantes** : Chaque forme possède une animation unique (rotation, agrandissement, translation).
 - **Environnement 3D interactif** : Les transformations permettent de créer une scène dynamique et immersive.
 - **Isolation des transformations** : Utilisation de `pushMatrix()` et `popMatrix()` pour gérer les transformations individuelles.
+
+## Réaliser par :
+  [Unelle AMOUSSOU](https://github.com/UnelleA)
